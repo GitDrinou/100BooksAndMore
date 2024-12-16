@@ -1,7 +1,7 @@
 # Read Me First
 The following was discovered as part of building this project:
 
-* The original package name 'com.drinounet.100BooksAndMore' is invalid and this project uses 'com.drinounet._BooksAndMore' instead.
+* The original package name 'com.drinounet.booksandmore' is invalid and this project uses 'com.drinounet._BooksAndMore' instead.
 
 # Getting Started
 
