@@ -19,4 +19,4 @@ spring:
       static-locations: classpath:/templates/
 logging:
   level:
-    org.flywaydb.core: DEBUG
+    org.flywaydb.core: ERROR
