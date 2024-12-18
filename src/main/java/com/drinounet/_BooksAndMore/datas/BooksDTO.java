@@ -4,7 +4,7 @@ import jakarta.persistence.*;
 
 @Entity
 @Table(name = "tbooks")
-public class BooksData {
+public class BooksDTO {
     @Id
     @GeneratedValue(strategy = GenerationType.SEQUENCE, generator = "tbooks_id_gen")
     @SequenceGenerator(name = "tbooks_id_gen", sequenceName = "tbooks_book_id_seq", allocationSize = 1)
